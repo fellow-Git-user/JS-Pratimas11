@@ -1,0 +1,6 @@
+.link-primary {
+    display: inline-block;
+    background-color: blue;
+    color: white;
+    padding: 5px 10px;
+}
