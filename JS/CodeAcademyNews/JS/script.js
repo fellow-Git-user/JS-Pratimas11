@@ -1,1 +1,1 @@
-console.log('veikia')
+let contentElement = document.querySelector('#content')
